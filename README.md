@@ -1,1 +1,1 @@
-A github repo for the course content of various HS courses I've done at IIIT Hyderabad.
+A github repo for the course content and papers of various HS courses offered at IIIT Hyderabad.
